@@ -5,7 +5,8 @@ Currently studying Software Engineering at the Monash University. I am passionat
 
  
 
-### Connect with me!
+<br>
+
 [<img align="center" alt="Taz17 | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 <!--
