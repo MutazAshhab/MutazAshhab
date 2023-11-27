@@ -1,6 +1,8 @@
 ### Hi there, I'm Mutaz
 
-I am in my fourth and final year of my Software Engineering degree at the Monash University.
+I currently am working at [sitemate](https://sitemate.com/au/) in the infra team.
+
+I completed my degree in Software Engineering at the Monash University.
 
 [<img align="center" alt="Taz17 | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
